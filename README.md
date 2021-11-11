@@ -41,6 +41,7 @@
 ## CARA INSTALL DI TERMUX
 
 Run termux XM FIXED BY HAIKAL
+
 > pkg install update
 > pkg install upgrade
 > pkg install install nodejs
