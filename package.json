@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "-": "0.0.1",
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@adiwajshing/baileys": "3.5.3",
     "@develoka/angka-terbilang-js": "^1.4.2",
     "async": "^2.4.1",
     "awesome-phonenumber": "^2.48.0",
