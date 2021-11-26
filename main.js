@@ -20,11 +20,12 @@ nocache('./index.js', module => console.log(`${module} is now updated!`))
 
 const starts = async (Haikal = new WAConnection()) => {
     Haikal.logger.level = 'warn'
+    Haikal.version = [2, 2140, 12]
+    Haikal.browserDescription = [ 'HW MODS WA', 'Chrome', '3.0' ]
     console.log(banner.string)
     Haikal.on('qr', () => {
         console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan bang'))
     })
-
     fs.existsSync('./session.json') && Haikal.loadAuthInfo('./session.json')
     Haikal.on('connecting', () => {
         start('2', 'Connecting...')
