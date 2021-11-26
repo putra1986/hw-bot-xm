@@ -41,6 +41,7 @@
 ## CARA INSTALL DI TERMUX
 
 Run termux XM FIXED BY HAIKAL
+
 > pkg install update
 > pkg install upgrade
 > pkg install install nodejs
@@ -62,7 +63,7 @@ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-oc
 > curl -qs https://www.npmjs.com/install.sh|npm_install=6.14.11 sh
 > npm install -g npm
 > npm install - npm
-
+ thanks you
 > ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 # INSTALL

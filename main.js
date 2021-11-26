@@ -26,13 +26,12 @@ const starts = async (Haikal = new WAConnection()) => {
     Haikal.on('qr', () => {
         console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan bang'))
     })
-
     fs.existsSync('./session.json') && Haikal.loadAuthInfo('./session.json')
     Haikal.on('connecting', () => {
-        start('2', 'Connecting...')
+        start('2', 'TUNGGU SEBENTAR...')
     })
     Haikal.on('open', () => {
-        success('2', 'Connected')
+        success('2', 'HW MODS WA AKTIF')
     })
     await Haikal.connect({timeoutMs: 30*1000})
         fs.writeFileSync('./session.json', JSON.stringify(Haikal.base64EncodedAuthInfo(), null, '\t'))

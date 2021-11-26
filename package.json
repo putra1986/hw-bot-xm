@@ -6,8 +6,12 @@
   "directories": {
     "lib": "lib"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Haikal",
   "dependencies": {
-    "-": "0.0.1",
     "@adiwajshing/baileys": "3.5.3",
     "@develoka/angka-terbilang-js": "^1.4.2",
     "async": "^2.4.1",
@@ -52,13 +56,13 @@
     "twitter-url-direct": "^1.0.1",
     "yt-search": "^2.7.6"
   },
-  "scripts": {
-    "start": "pm2 start main.js --deep-monitoring --attach",
-    "test": "supervisor main"
+  "engines": {
+    "node": "16.x",
+    "npm": "7.x"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/putra1986/jancok.git"
+    "url": "git+https://github.com/HaikaltestBot123"
   },
   "keywords": [
     "Wasu"
@@ -66,7 +70,7 @@
   "author": "Haikal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/putra1986/jancok.git"
+    "url": "https://github.com/HaikaltestBot123"
   },
-  "homepage": "https://github.com/putra1986/jancok.git"
+  "homepage": "https://github.com/HaikaltestBot123"
 }
