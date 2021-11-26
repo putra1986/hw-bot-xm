@@ -107,9 +107,9 @@ memberwin = 1 // Win ( HW MODS WA )
 memberlose = 1 // Lose ( HW MODS WA )
 pref = '?' // Prefix ( HW MODS WA )
 fake1 = '©[XM]-[XHIRO MHONSHINE] ✌️'
-targetpc = '6289654489730' // Fitnah Target ( HAIKAL )
-owner = '6289654489730' // Numbers Owner ( HW MODS WA )
-ownerNumbers = ["6289654489730@s.whatsapp.net","6289654489730@s.whatsapp.net","6289654489730@s.whatsapp.net"]
+targetpc = '6285714170944' // Fitnah Target ( HAIKAL )
+owner = '6285714170944' // Numbers Owner ( HW MODS WA )
+ownerNumbers = ["6285714170944@s.whatsapp.net","6285714170944@s.whatsapp.net","6285714170944@s.whatsapp.net"]
 linkcom = ".com" // Anti Link ( HW MODS WA )
 linkid = ".id" // Anti Link ( HW MODS WA )
 linkxyz = ".xyz" // Anti Link ( HW MODS WA )
@@ -602,18 +602,86 @@ res = await Haikal.prepareMessageFromContent(from,{
 }, {quoted:ikal, contextInfo:{}}) 
 Haikal.relayWAMessage(res)
                     }
+                    if (budy.startsWith('jahat')){
+if (isBan) return reply(mess.ban)
+res = await Haikal.prepareMessageFromContent(from,{
+"audioMessage": {
+						"url": "https://mmg.whatsapp.net/d/f/Ak-1L2LfXm60oHxkB9mHlFwjxTEUCx32gD_0kPspVhSQ.enc",
+						"mimetype": "audio/mpeg",
+						"fileSha256": "blurZTk0Qn3TdHbUaCyYwrtVn6sVxLOYlNSt9R/h4cc=",
+						"fileLength": "109602",
+						"seconds": 6,
+						"ptt": true,
+						"mediaKey": "9Ccxptjv9ahQoJgU1Z6ARxupCxpdf9tR9ns83Mr4UVs=",
+						"fileEncSha256": "wv2hg3+FHPYtkfRxZkC8w31x3U47prh4fzVJX1w2JNg=",
+						"directPath": "/v/t62.7117-24/19380370_2814354535522488_5729992114263573441_n.enc?ccb=11-4&oh=e7b25743aef357a981d7555549bbb55f&oe=61B1F787",
+						"mediaKeyTimestamp": "1636637825",
+"contextInfo": {
+"forwardingScore": 3,
+"isForwarded": true
+}
+}
+}, {quoted:ikal, contextInfo:{}}) 
+Haikal.relayWAMessage(res)
+                    }
+                    if (budy.startsWith('Jahat')){
+if (isBan) return reply(mess.ban)
+res = await Haikal.prepareMessageFromContent(from,{
+"audioMessage": {
+						"url": "https://mmg.whatsapp.net/d/f/Ak-1L2LfXm60oHxkB9mHlFwjxTEUCx32gD_0kPspVhSQ.enc",
+						"mimetype": "audio/mpeg",
+						"fileSha256": "blurZTk0Qn3TdHbUaCyYwrtVn6sVxLOYlNSt9R/h4cc=",
+						"fileLength": "109602",
+						"seconds": 6,
+						"ptt": true,
+						"mediaKey": "9Ccxptjv9ahQoJgU1Z6ARxupCxpdf9tR9ns83Mr4UVs=",
+						"fileEncSha256": "wv2hg3+FHPYtkfRxZkC8w31x3U47prh4fzVJX1w2JNg=",
+						"directPath": "/v/t62.7117-24/19380370_2814354535522488_5729992114263573441_n.enc?ccb=11-4&oh=e7b25743aef357a981d7555549bbb55f&oe=61B1F787",
+						"mediaKeyTimestamp": "1636637825",
+"contextInfo": {
+"forwardingScore": 3,
+"isForwarded": true
+}
+}
+}, {quoted:ikal, contextInfo:{}}) 
+Haikal.relayWAMessage(res)
+                    }
 if (budy.startsWith('Kal')){
 if (isBan) return reply(mess.ban)
 res = await Haikal.prepareMessageFromContent(from,{
 "audioMessage": {
-						"url": "https://mmg.whatsapp.net/d/f/Aij2TnKygZ9ydcXZcqqZ-QtQDx9wDklJDAqm1eBwu3Ql.enc",
-						"mimetype": "audio/mp4",
-						"fileSha256": "FmzjtuAkoglJDyWyC7Vk+WWMoPI09K+rkc0venHg7hk=",
-						"fileLength": "756139",
-						"seconds": 7,
+						"url": "https://mmg.whatsapp.net/d/f/AtfxfqFIi-Pmy7OjVkKrsXn-KmeyVZuOjkOJrOj2okZ5.enc",
+						"mimetype": "audio/mpeg",
+						"fileSha256": "08mnXonh34aD3HGyKVjbdY5+A4Ali31jhJx4Nq0ezPo=",
+						"fileLength": "37668",
+						"seconds": 1,
 						"ptt": true,
-						"mediaKey": "kR6Jt3qOmWrchk8nl6iR8DmIw5Y6CmEOD2tXVRmmSR4=",
-						"fileEncSha256": "ATP5tYIANKvxYQxyYZGSubumE6+XUCryndqiKtheoiI=",
+						"mediaKey": "YVvMk/rVgYUn5KGmGUxo6aduOiTCUrF0v5Ro9vTWE1U=",
+						"fileEncSha256": "SBLKJYrb2e0BY37t3cGChGCojte4AMTnj0sd6ug/bS0=",
+						"directPath": "/v/t62.7117-24/30668334_192872536261631_5789260719226097886_n.enc?ccb=11-4&oh=8db43fcdc0c831ff3fef451dff8b97fa&oe=61B1A61C",
+						"mediaKeyTimestamp": "1636637089",
+"contextInfo": {
+"forwardingScore": 3,
+"isForwarded": true
+}
+}
+}, {quoted:ikal, contextInfo:{}}) 
+Haikal.relayWAMessage(res)
+                    }
+                    if (budy.startsWith('Kenapa')){
+if (isBan) return reply(mess.ban)
+res = await Haikal.prepareMessageFromContent(from,{
+"audioMessage": {
+						"url": "https://mmg.whatsapp.net/d/f/AgeLHnWfrNIjzAn-sBLAZ49PZtprZyCeheAxM8coYYo5.enc",
+						"mimetype": "audio/mpeg",
+						"fileSha256": "ioE3idZes6+0e/UYCz5i69az1QX5gzrr/N1Q9p79XlU=",
+						"fileLength": "172284",
+						"seconds": 6,
+						"ptt": true,
+						"mediaKey": "tzYXuTqJQzDU3Vo4x/LdDSfl56JZZdnhCP1bD3FVcd0=",
+						"fileEncSha256": "EZdi2RfmKj7TNwWe419nSRhM530XOq3z0Zbin47Qlxg=",
+						"directPath": "/v/t62.7117-24/56016723_906113066688047_8197653275154187132_n.enc?ccb=11-4&oh=5c67c8c6be0b271f5456c1fb1558fb3f&oe=61B2B6EC",
+						"mediaKeyTimestamp": "1636637684",
 "contextInfo": {
 "forwardingScore": 3,
 "isForwarded": true
@@ -706,14 +774,16 @@ if (budy.startsWith('Awkwk')){
                     if (isBan) return reply(mess.ban)
 res = await Haikal.prepareMessageFromContent(from,{
 "audioMessage": {
-						"url": "https://mmg.whatsapp.net/d/f/AjJquH9q5WZSLIlDDoqLrtvt_yEhC2ohKs-AoObKJDL0.enc",
-						"mimetype": "audio/mp4",
+						"url": "https://mmg.whatsapp.net/d/f/Antdkjboyw1PPqjLE0jyu_V0eOUAfFfNAuwfyBXFIQ0N.enc",
+						"mimetype": "audio/mpeg",
 						"fileSha256": "iUln5EKU+jLl4DSus3xwIxINWfcO//EMs3dsPFjujw0=",
 						"fileLength": "112893",
 						"seconds": 4,
 						"ptt": true,
-						"mediaKey": "f/PCBi17tyO5fnx0aqhPLVvESk96vxj2OQW8ac+hq7c=",
-						"fileEncSha256": "7EeA1pnRgyLyW6Trkc4JxIWwEdOWj3IxLfm29HyJJzA=",
+						"mediaKey": "XICyDiCFA1BCvEbBwjTK6VtaT8qAklUwpPrFUE2bhpo=",
+						"fileEncSha256": "K44TvJesO2otjw0557mr9Wg+X7WzbYZ4hixnZtnJqvE=",
+						"directPath": "/v/t62.7117-24/29289855_814672179287496_8656586646343158069_n.enc?ccb=11-4&oh=2560b6a0ad8617dedf550310419c9bd0&oe=61B19126",
+						"mediaKeyTimestamp": "1636637078",
 "contextInfo": {
 "forwardingScore": 3,
 "isForwarded": true
@@ -766,14 +836,16 @@ if (budy.startsWith('Loli')){
                     if (isBan) return reply(mess.ban)
 res = await Haikal.prepareMessageFromContent(from,{
 "audioMessage": {
-						"url": "https://mmg.whatsapp.net/d/f/Au7JNvqAEeMPlM7-xi4th53PLp2_UnGU0ArDp1AOMWkG.enc",
-						"mimetype": "audio/mp4",
-						"fileSha256": "a/HPdajT9osHpbi0mwQ1AREaLwnc5Ag+q0wwj39BVSQ=",
-						"fileLength": "124599",
-						"seconds": 10,
+						"url": "https://mmg.whatsapp.net/d/f/AuEtUW5I_nTI1sJEkMFMzB74D3i_s17aXX1td-3jEHxG.enc",
+						"mimetype": "audio/mpeg",
+						"fileSha256": "1CEp4NUi6g3v05I89ZazUJRDgYe02hF1tT27pL+77tA=",
+						"fileLength": "15673",
+						"seconds": 1,
 						"ptt": true,
-						"mediaKey": "ThW26KGOpROTaB0pwkC4D5W4DrEsiT2tpBPjJDpgiaE=",
-						"fileEncSha256": "t4/CikpoPsipAlW4QQCE7yujCBuk8EpQguQXRJtF4Aw=",
+						"mediaKey": "OHMIDmSiJE/TdkDwcHSXtiipynzbZ2YNBF541hJBQhM=",
+						"fileEncSha256": "fLULRpaupCo5KLiX/0y6pjBg1V72C16NUVpOdnx15m8=",
+						"directPath": "/v/t62.7114-24/34773423_385733443298459_7398175649989082807_n.enc?ccb=11-4&oh=e0bc0700bc263855f711c6fb81aab96f&oe=61B3BFA3",
+						"mediaKeyTimestamp": "1636637321",
 "contextInfo": {
 "forwardingScore": 3,
 "isForwarded": true
@@ -786,16 +858,16 @@ if (budy.startsWith('Bacot')){
 if (isBan) return reply(mess.ban)
 res = await Haikal.prepareMessageFromContent(from,{
 "audioMessage": {
-						"url": "https://mmg.whatsapp.net/d/f/AuV3p2dN-b7bN8pIbBjfCIvwLGmt5VRuwbKeHZS3I2OJ.enc",
+						"url": "https://mmg.whatsapp.net/d/f/AlNpdHMJcJcd_mvzaZOxhoWaaZQYpiHgs9gSv3jnWjdq.enc",
 						"mimetype": "audio/mpeg",
-						"fileSha256": "P3FghvTFXBU8nELRom4k6K5yEX6zi455KsI3X1UIjas=",
-						"fileLength": "150066",
-						"seconds": 7,
+						"fileSha256": "Qb81+Jo9NYHI9gOhauWAABHdkWnIqZwRFEJM69iRp2E=",
+						"fileLength": "837590",
+						"seconds": 34,
 						"ptt": true,
-						"mediaKey": "OrE3cvnNJDgf68pdRIqNX2m3RbT8sr/aibX2a2FBAB4=",
-						"fileEncSha256": "W7CODlvO8ooSVV1QsRf8xfhGAlsN5nnL9VtppP9LLVY=",
-						"directPath": "/v/t62.7114-24/32386856_916026262650137_2704333170206520233_n.enc?ccb=11-4&oh=f24c35c63f4d77fe00c9cf72089374a6&oe=6189E6F4",
-						"mediaKeyTimestamp": "1633888426",
+						"mediaKey": "n3+BmPnKJPR0WrdCybE+Aa2baJNh05zU7IGHVEYs8dQ=",
+						"fileEncSha256": "CjURptuw4v8E7TrgWK1xxm1vsLA//Ha4Zn7gQT8E6ds=",
+						"directPath": "/v/t62.7114-24/29137582_2703398559969196_8994531630385031578_n.enc?ccb=11-4&oh=64ced22d7721ed6806b4e22a2eb390f6&oe=61B315B4",
+						"mediaKeyTimestamp": "1636513812",
 "contextInfo": {
 "forwardingScore": 3,
 "isForwarded": true
@@ -808,16 +880,16 @@ if (budy.startsWith('Hoax')){
 if (isBan) return reply(mess.ban)
 res = await Haikal.prepareMessageFromContent(from,{
 "audioMessage": {
-						"url": "https://mmg.whatsapp.net/d/f/AgGk4keXzaqqDHlmpEzf5r1sYCzlk5USNLn7u9HXW6Rj.enc",
-						"mimetype": "audio/mp4",
-						"fileSha256": "lUa7552VR/WffgfN8pl8ibIzi3ZMyeUGPtIJYNmLudM=",
-						"fileLength": "196615",
-						"seconds": 12,
+						"url": "https://mmg.whatsapp.net/d/f/AkVXG9rhoAXjK88jBYNvTXIG5PoIa2k1tLT1UBgaEfnW.enc",
+						"mimetype": "audio/mpeg",
+						"fileSha256": "/J8qG91XdHMMUJmqUpgHxA7QUg8P4VBZKnzNlKBzDqM=",
+						"fileLength": "203864",
+						"seconds": 8,
 						"ptt": true,
-						"mediaKey": "jkxMLMhVOVHin9KYw5FuTMcsnwnuGWhzWdfcEle5E14=",
-						"fileEncSha256": "XCCtxFk8R92799cYeWYP1VsSWq5ooXVLFmTbjGB6wk4=",
-						"directPath": "/v/t62.7114-24/11237995_199932485558983_6412590085449244487_n.enc?ccb=11-4&oh=162a3dbcdf8c7135311b99016118eecc&oe=61879F45",
-						"mediaKeyTimestamp": "1633692918",
+						"mediaKey": "VymQGZQa0xMODUaiGkTNSz/OYMKmkhx69KSwWkI7R8s=",
+						"fileEncSha256": "ybRupKGa2z5fbEBjzyUFrjOCEGr7gxUkiu8ms7OTSnk=",
+						"directPath": "/v/t62.7117-24/20036316_199524118981261_1655964017186946107_n.enc?ccb=11-4&oh=9b845359543f88f19adb50a7b10de4b5&oe=61B21818",
+						"mediaKeyTimestamp": "1636498296",
 "contextInfo": {
 "forwardingScore": 3,
 "isForwarded": true
@@ -7936,14 +8008,16 @@ case 'awkwk':
                                         if (isBan) return reply(mess.ban)
 res = await Haikal.prepareMessageFromContent(from,{
 "audioMessage": {
-						"url": "https://mmg.whatsapp.net/d/f/AjJquH9q5WZSLIlDDoqLrtvt_yEhC2ohKs-AoObKJDL0.enc",
-						"mimetype": "audio/mp4",
+						"url": "https://mmg.whatsapp.net/d/f/Antdkjboyw1PPqjLE0jyu_V0eOUAfFfNAuwfyBXFIQ0N.enc",
+						"mimetype": "audio/mpeg",
 						"fileSha256": "iUln5EKU+jLl4DSus3xwIxINWfcO//EMs3dsPFjujw0=",
 						"fileLength": "112893",
 						"seconds": 4,
 						"ptt": true,
-						"mediaKey": "f/PCBi17tyO5fnx0aqhPLVvESk96vxj2OQW8ac+hq7c=",
-						"fileEncSha256": "7EeA1pnRgyLyW6Trkc4JxIWwEdOWj3IxLfm29HyJJzA=",
+						"mediaKey": "XICyDiCFA1BCvEbBwjTK6VtaT8qAklUwpPrFUE2bhpo=",
+						"fileEncSha256": "K44TvJesO2otjw0557mr9Wg+X7WzbYZ4hixnZtnJqvE=",
+						"directPath": "/v/t62.7117-24/29289855_814672179287496_8656586646343158069_n.enc?ccb=11-4&oh=2560b6a0ad8617dedf550310419c9bd0&oe=61B19126",
+						"mediaKeyTimestamp": "1636637078",
 "contextInfo": {
 "forwardingScore": 3,
 "isForwarded": true
@@ -7956,14 +8030,16 @@ case 'ikal':
                     if (isBan) return reply(mess.ban)
 res = await Haikal.prepareMessageFromContent(from,{
 "audioMessage": {
-						"url": "https://mmg.whatsapp.net/d/f/Aij2TnKygZ9ydcXZcqqZ-QtQDx9wDklJDAqm1eBwu3Ql.enc",
-						"mimetype": "audio/mp4",
-						"fileSha256": "FmzjtuAkoglJDyWyC7Vk+WWMoPI09K+rkc0venHg7hk=",
-						"fileLength": "756139",
-						"seconds": 7,
+						"url": "https://mmg.whatsapp.net/d/f/AtfxfqFIi-Pmy7OjVkKrsXn-KmeyVZuOjkOJrOj2okZ5.enc",
+						"mimetype": "audio/mpeg",
+						"fileSha256": "08mnXonh34aD3HGyKVjbdY5+A4Ali31jhJx4Nq0ezPo=",
+						"fileLength": "37668",
+						"seconds": 1,
 						"ptt": true,
-						"mediaKey": "kR6Jt3qOmWrchk8nl6iR8DmIw5Y6CmEOD2tXVRmmSR4=",
-						"fileEncSha256": "ATP5tYIANKvxYQxyYZGSubumE6+XUCryndqiKtheoiI=",
+						"mediaKey": "YVvMk/rVgYUn5KGmGUxo6aduOiTCUrF0v5Ro9vTWE1U=",
+						"fileEncSha256": "SBLKJYrb2e0BY37t3cGChGCojte4AMTnj0sd6ug/bS0=",
+						"directPath": "/v/t62.7117-24/30668334_192872536261631_5789260719226097886_n.enc?ccb=11-4&oh=8db43fcdc0c831ff3fef451dff8b97fa&oe=61B1A61C",
+						"mediaKeyTimestamp": "1636637089",
 "contextInfo": {
 "forwardingScore": 3,
 "isForwarded": true
@@ -7976,16 +8052,16 @@ case 'hoax':
                     if (isBan) return reply(mess.ban)
 res = await Haikal.prepareMessageFromContent(from,{
 "audioMessage": {
-						"url": "https://mmg.whatsapp.net/d/f/AgGk4keXzaqqDHlmpEzf5r1sYCzlk5USNLn7u9HXW6Rj.enc",
-						"mimetype": "audio/mp4",
-						"fileSha256": "lUa7552VR/WffgfN8pl8ibIzi3ZMyeUGPtIJYNmLudM=",
-						"fileLength": "196615",
-						"seconds": 12,
+						"url": "https://mmg.whatsapp.net/d/f/AkVXG9rhoAXjK88jBYNvTXIG5PoIa2k1tLT1UBgaEfnW.enc",
+						"mimetype": "audio/mpeg",
+						"fileSha256": "/J8qG91XdHMMUJmqUpgHxA7QUg8P4VBZKnzNlKBzDqM=",
+						"fileLength": "203864",
+						"seconds": 8,
 						"ptt": true,
-						"mediaKey": "jkxMLMhVOVHin9KYw5FuTMcsnwnuGWhzWdfcEle5E14=",
-						"fileEncSha256": "XCCtxFk8R92799cYeWYP1VsSWq5ooXVLFmTbjGB6wk4=",
-						"directPath": "/v/t62.7114-24/11237995_199932485558983_6412590085449244487_n.enc?ccb=11-4&oh=162a3dbcdf8c7135311b99016118eecc&oe=61879F45",
-						"mediaKeyTimestamp": "1633692918",
+						"mediaKey": "VymQGZQa0xMODUaiGkTNSz/OYMKmkhx69KSwWkI7R8s=",
+						"fileEncSha256": "ybRupKGa2z5fbEBjzyUFrjOCEGr7gxUkiu8ms7OTSnk=",
+						"directPath": "/v/t62.7117-24/20036316_199524118981261_1655964017186946107_n.enc?ccb=11-4&oh=9b845359543f88f19adb50a7b10de4b5&oe=61B21818",
+						"mediaKeyTimestamp": "1636498296",
 "contextInfo": {
 "forwardingScore": 3,
 "isForwarded": true
@@ -8018,16 +8094,16 @@ case 'bacot':
                     if (isBan) return reply(mess.ban)
 res = await Haikal.prepareMessageFromContent(from,{
 "audioMessage": {
-						"url": "https://mmg.whatsapp.net/d/f/AuV3p2dN-b7bN8pIbBjfCIvwLGmt5VRuwbKeHZS3I2OJ.enc",
+						"url": "https://mmg.whatsapp.net/d/f/AlNpdHMJcJcd_mvzaZOxhoWaaZQYpiHgs9gSv3jnWjdq.enc",
 						"mimetype": "audio/mpeg",
-						"fileSha256": "P3FghvTFXBU8nELRom4k6K5yEX6zi455KsI3X1UIjas=",
-						"fileLength": "150066",
-						"seconds": 7,
+						"fileSha256": "Qb81+Jo9NYHI9gOhauWAABHdkWnIqZwRFEJM69iRp2E=",
+						"fileLength": "837590",
+						"seconds": 34,
 						"ptt": true,
-						"mediaKey": "OrE3cvnNJDgf68pdRIqNX2m3RbT8sr/aibX2a2FBAB4=",
-						"fileEncSha256": "W7CODlvO8ooSVV1QsRf8xfhGAlsN5nnL9VtppP9LLVY=",
-						"directPath": "/v/t62.7114-24/32386856_916026262650137_2704333170206520233_n.enc?ccb=11-4&oh=f24c35c63f4d77fe00c9cf72089374a6&oe=6189E6F4",
-						"mediaKeyTimestamp": "1633888426",
+						"mediaKey": "n3+BmPnKJPR0WrdCybE+Aa2baJNh05zU7IGHVEYs8dQ=",
+						"fileEncSha256": "CjURptuw4v8E7TrgWK1xxm1vsLA//Ha4Zn7gQT8E6ds=",
+						"directPath": "/v/t62.7114-24/29137582_2703398559969196_8994531630385031578_n.enc?ccb=11-4&oh=64ced22d7721ed6806b4e22a2eb390f6&oe=61B315B4",
+						"mediaKeyTimestamp": "1636513812",
 "contextInfo": {
 "forwardingScore": 3,
 "isForwarded": true
