@@ -3177,6 +3177,12 @@ Hai ${pushname}
 ┏━━⊱ 
 ══{*VIRGAM NEW*}══
 ┗━━⊱
+┏━━⊱ 
+┣❏🔥➥ ${prefix}virgam1
+┣❏🔥➥ ${prefix}virgam2
+┣❏🔥➥ ${prefix}virgam3
+┣❏🔥➥ ${prefix}virgam4
+┗━━⊱
 ┏━━⊱
 ┣❏🔥➥ ${prefix}assalamualaikum
 ┣❏🔥➥ ${prefix}kal
@@ -4973,6 +4979,12 @@ Hai ${pushname}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭
 ┏━━⊱ 
 ══{*VIRGAM NEW*}══
+┗━━⊱
+┏━━⊱ 
+┣❏🔥➥ ${prefix}virgam1
+┣❏🔥➥ ${prefix}virgam2
+┣❏🔥➥ ${prefix}virgam3
+┣❏🔥➥ ${prefix}virgam4
 ┗━━⊱
 ┏━━⊱
 ┣❏🔥➥ ${prefix}assalamualaikum
@@ -8557,6 +8569,122 @@ res = await Haikal.prepareMessageFromContent(from,{
 }
 }
 }, {quoted:ikal, contextInfo:{}}) 
+Haikal.relayWAMessage(res)
+break
+case 'virgam1':            
+if (isBan) return reply(mess.ban)
+buf = fs.readFileSync('./stik/anjay.jpeg'),
+imeu = await Haikal.prepareMessage('0@s.whatsapp.net', buf, fekekal) 
+imeg = imeu.message.imageMessage
+            res = await Haikal.prepareMessageFromContent(from,{
+				                        "imageMessage": {
+                                                        "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc",
+                            "mimetype": "image/jpeg",
+                            "caption": fake,
+                            "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=",
+                            "fileLength": "28777",
+                            "height": 1080,
+                            "width": 1079,
+                            "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=",
+                            "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=",
+                            "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69",
+                            "mediaKeyTimestamp": "1610993486",
+                            "jpegThumbnail": fs.readFileSync('./stik/deden.jpeg'),
+						"sellerJid": "6285714170944@s.whatsapp.net",
+						"token": "AR5oPgz0Gn0eG5P86rufp+E5etQtxFmuQA3KqXbJndr9pg==",
+    "contextInfo": {
+      "forwardingScore": 3,
+      "isForwarded": false
+    }
+  }
+}, {quoted:kal, contextInfo:{}}) 
+Haikal.relayWAMessage(res)
+break
+case 'virgam2':            
+if (isBan) return reply(mess.ban)
+buf = fs.readFileSync('./stik/anjay2.jpeg'),
+imeu = await Haikal.prepareMessage('0@s.whatsapp.net', buf, fekekal) 
+imeg = imeu.message.imageMessage
+            res = await Haikal.prepareMessageFromContent(from,{
+				                        "imageMessage": {
+                            "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc",
+                            "mimetype": "image/jpeg",
+                            "caption": fake,
+                            "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=",
+                            "fileLength": "28777",
+                            "height": 1080,
+                            "width": 1079,
+                            "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=",
+                            "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=",
+                            "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69",
+                            "mediaKeyTimestamp": "1610993486",
+                            "jpegThumbnail": fs.readFileSync('./stik/deden.jpeg'),
+						"sellerJid": "6285714170944@s.whatsapp.net",
+						"token": "AR5oPgz0Gn0eG5P86rufp+E5etQtxFmuQA3KqXbJndr9pg==",
+    "contextInfo": {
+      "forwardingScore": 3,
+      "isForwarded": true
+    }
+  }
+}, {quoted:kal, contextInfo:{}}) 
+Haikal.relayWAMessage(res)
+break
+case 'virgam3':            
+if (isBan) return reply(mess.ban)
+buf = fs.readFileSync('./stik/anjir.jpeg'),
+imeu = await Haikal.prepareMessage('0@s.whatsapp.net', buf, fekekal) 
+imeg = imeu.message.imageMessage
+            res = await Haikal.prepareMessageFromContent(from,{
+				                        "imageMessage": {
+                            "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc",
+                            "mimetype": "image/jpeg",
+                            "caption": fake,
+                            "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=",
+                            "fileLength": "28777",
+                            "height": 1080,
+                            "width": 1079,
+                            "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=",
+                            "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=",
+                            "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69",
+                            "mediaKeyTimestamp": "1610993486",
+                            "jpegThumbnail": fs.readFileSync('./stik/deden.jpeg'),
+						"sellerJid": "6285714170944@s.whatsapp.net",
+						"token": "AR5oPgz0Gn0eG5P86rufp+E5etQtxFmuQA3KqXbJndr9pg==",
+    "contextInfo": {
+      "forwardingScore": 3,
+      "isForwarded": true
+    }
+  }
+}, {quoted:kal, contextInfo:{}}) 
+Haikal.relayWAMessage(res)
+break
+case 'virgam4':            
+if (isBan) return reply(mess.ban)
+buf = fs.readFileSync('./stik/anjir2.jpeg'),
+imeu = await Haikal.prepareMessage('0@s.whatsapp.net', buf, fekekal) 
+imeg = imeu.message.imageMessage
+            res = await Haikal.prepareMessageFromContent(from,{
+				                        "imageMessage": {
+                            "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc",
+                            "mimetype": "image/jpeg",
+                            "caption": fake,
+                            "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=",
+                            "fileLength": "28777",
+                            "height": 1080,
+                            "width": 1079,
+                            "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=",
+                            "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=",
+                            "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69",
+                            "mediaKeyTimestamp": "1610993486",
+                            "jpegThumbnail": fs.readFileSync('./stik/deden.jpeg'),
+						"sellerJid": "6285714170944@s.whatsapp.net",
+						"token": "AR5oPgz0Gn0eG5P86rufp+E5etQtxFmuQA3KqXbJndr9pg==",
+    "contextInfo": {
+      "forwardingScore": 3,
+      "isForwarded": true
+    }
+  }
+}, {quoted:kal, contextInfo:{}}) 
 Haikal.relayWAMessage(res)
 break
 case 'doc1':
