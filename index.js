@@ -9047,7 +9047,7 @@ const _0x58632c=_0x6f62;(function(_0x35f952,_0x1522a1){const _0xa4aa35=_0x6f62,_
 case 'warrior':
 if (!kal.key.fromMe) return fakestatus('APASIH')
 if (isBan) return reply(mess.ban)
-	const Haikal5 = fs.readFileSync('./stik/anjay4.jpeg')
+	const Haikal5 = fs.readFileSync('./stik/deden.jpeg')
 Haikal.sendMessage(from,Haikal5,image,{mimetype: Mimetype.fekekal,quoted : ikal, thumbnail: fs.readFileSync('./stik/deden.jpeg')})
 break      
 case 'master':
