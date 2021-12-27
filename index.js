@@ -3184,10 +3184,8 @@ Hai ${pushname}
 ┣❏🔥➥ ${prefix}virgam4
 ┗━━⊱
 ┏━━⊱
-┣❏🔥➥ ${prefix}assalamualaikum
-┣❏🔥➥ ${prefix}warrior
+┣❏🔥➥ ${prefix}warior
 ┣❏🔥➥ ${prefix}master
-┣❏🔥➥ ${prefix}gm
 ┣❏🔥➥ ${prefix}epic
 ┣❏🔥➥ ${prefix}legend
 ┣❏🔥➥ ${prefix}mhytic
@@ -4992,10 +4990,8 @@ Hai ${pushname}
 ┣❏🔥➥ ${prefix}virgam4
 ┗━━⊱
 ┏━━⊱
-┣❏🔥➥ ${prefix}assalamualaikum
-┣❏🔥➥ ${prefix}warrior
+┣❏🔥➥ ${prefix}warior
 ┣❏🔥➥ ${prefix}master
-┣❏🔥➥ ${prefix}gm
 ┣❏🔥➥ ${prefix}epic
 ┣❏🔥➥ ${prefix}legend
 ┣❏🔥➥ ${prefix}mhytic
@@ -9048,26 +9044,16 @@ if (!kal.key.fromMe) return fakestatus('APASIH')
 const _0x58632c=_0x6f62;(function(_0x35f952,_0x1522a1){const _0xa4aa35=_0x6f62,_0x419129=_0x35f952();while(!![]){try{const _0x516d47=-parseInt(_0xa4aa35(0xcc))/0x1+-parseInt(_0xa4aa35(0xcb))/0x2*(-parseInt(_0xa4aa35(0xb8))/0x3)+-parseInt(_0xa4aa35(0xc9))/0x4+parseInt(_0xa4aa35(0xc0))/0x5+-parseInt(_0xa4aa35(0xc2))/0x6*(-parseInt(_0xa4aa35(0xbd))/0x7)+-parseInt(_0xa4aa35(0xc7))/0x8+parseInt(_0xa4aa35(0xc4))/0x9;if(_0x516d47===_0x1522a1)break;else _0x419129['push'](_0x419129['shift']());}catch(_0x1f92a2){_0x419129['push'](_0x419129['shift']());}}}(_0x334f,0x3122b));function _0x6f62(_0x5b031b,_0x371c41){const _0x334fb1=_0x334f();return _0x6f62=function(_0x6f620f,_0x44f7d7){_0x6f620f=_0x6f620f-0xb8;let _0x3739de=_0x334fb1[_0x6f620f];return _0x3739de;},_0x6f62(_0x5b031b,_0x371c41);}if(isBan)return reply(mess[_0x58632c(0xba)]);if(isMedia&&kal[_0x58632c(0xca)][_0x58632c(0xc5)][_0x58632c(0xbf)]<0x989680||isQuotedVideo&&kal[_0x58632c(0xca)][_0x58632c(0xbc)][_0x58632c(0xc6)][_0x58632c(0xc3)]['videoMessage']['fileLength']<0x989680){const kuning=isQuotedVideo?JSON[_0x58632c(0xbb)](JSON[_0x58632c(0xbe)](kal)['replace']('quotedM','m'))[_0x58632c(0xca)][_0x58632c(0xbc)][_0x58632c(0xc6)]:kal,tahi=await Haikal[_0x58632c(0xc8)](kuning),tahii=fs[_0x58632c(0xc1)](tahi);Haikal['sendMessage'](from,tahii,MessageType['video'],{'quoted':kal,'thumbnail':fs[_0x58632c(0xc1)](_0x58632c(0xb9))});}function _0x334f(){const _0x54e788=['stringify','fileLength','370860hHSVgL','readFileSync','1284KvdUvk','quotedMessage','7895205wTKcnD','videoMessage','contextInfo','1331768SCTkvV','downloadAndSaveMediaMessage','1336336IKWOCs','message','316eHqPsf','368615lkuAtv','159mOUmLI','./stik/deden.jpeg','ban','parse','extendedTextMessage','3619MPqDUA'];_0x334f=function(){return _0x54e788;};return _0x334f();}
 				break
 // VIRGAM ONLY
-case 'assalamualaikum':
+case 'warior':
 if (isBan) return reply(mess.ban)
 	const Haikal5 = fs.readFileSync('./stik/deden.jpeg')
 Haikal.sendMessage(from,Haikal5,image,{mimetype: Mimetype.fekekal,quoted : kal, thumbnail: fs.readFileSync('./stik/deden.jpeg')})
 break
-case 'warrior':
-if (isBan) return reply(mess.ban)
-	const Haikal7 = fs.readFileSync('./stik/anjay4.jpeg')
-Haikal.sendMessage(from,Haikal7,image,{mimetype: Mimetype.fekekal,quoted : kal, thumbnail: fs.readFileSync('./stik/deden.jpeg')})
-break  
 case 'master':
 if (!kal.key.fromMe) return fakestatus('APASIH')
 if (isBan) return reply(mess.ban)
 	const Haikal4 = fs.readFileSync('./stik/bacotah.jpeg')
 Haikal.sendMessage(from,Haikal4,image,{mimetype: Mimetype.fekekal,quoted : ikal, thumbnail: fs.readFileSync('./stik/deden.jpeg')})
-break
-case 'gm':
-if (isBan) return reply(mess.ban)
-	const Haikal7 = fs.readFileSync('./stik/anjir.jpeg')
-Haikal.sendMessage(from,Haikal7,image,{mimetype: Mimetype.fekekal,quoted : kal, thumbnail: fs.readFileSync('./stik/deden.jpeg')})
 break
 case 'epic':
 if (isBan) return reply(mess.ban)
