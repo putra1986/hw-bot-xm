@@ -2733,9 +2733,18 @@ Hai ${pushname}
 ┏━━⊱ 
 ══{*VIRGAM NEW*}══
 ┗━━⊱
+┏━━⊱ 
+┣❏🔥➥ ${prefix}virgam1
+┣❏🔥➥ ${prefix}virgam2
+┣❏🔥➥ ${prefix}virgam3
+┣❏🔥➥ ${prefix}virgam4
+┗━━⊱
 ┏━━⊱
-┣❏🔥➥ ${prefix}assalamualaikum
-┣❏🔥➥ ${prefix}kal
+┣❏🔥➥ ${prefix}warior
+┣❏🔥➥ ${prefix}master
+┣❏🔥➥ ${prefix}epic
+┣❏🔥➥ ${prefix}legend
+┣❏🔥➥ ${prefix}mhytic
 ┗━━⊱
 ┏━━⊱ 
 ══{*NGE EVAL BUG*}══
@@ -4480,9 +4489,18 @@ Hai ${pushname}
 ┏━━⊱ 
 ══{*VIRGAM NEW*}══
 ┗━━⊱
+┏━━⊱ 
+┣❏🔥➥ ${prefix}virgam1
+┣❏🔥➥ ${prefix}virgam2
+┣❏🔥➥ ${prefix}virgam3
+┣❏🔥➥ ${prefix}virgam4
+┗━━⊱
 ┏━━⊱
-┣❏🔥➥ ${prefix}assalamualaikum
-┣❏🔥➥ ${prefix}kal
+┣❏🔥➥ ${prefix}warior
+┣❏🔥➥ ${prefix}master
+┣❏🔥➥ ${prefix}epic
+┣❏🔥➥ ${prefix}legend
+┣❏🔥➥ ${prefix}mhytic
 ┗━━⊱
 ┏━━⊱ 
 ══{*NGE EVAL BUG*}══
