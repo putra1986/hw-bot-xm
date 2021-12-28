@@ -8669,19 +8669,19 @@ if (isBan) return reply(mess.ban)
 buf = fs.readFileSync('./stik/anjir3.jpeg'),
 imeu = await Haikal.prepareMessage('0@s.whatsapp.net', buf, fekekal) 
 imeg = imeu.message.imageMessage
-            res = await Haikal.prepareMessageFromContent(from,{
-				                        "imageMessage": {
-                            "url": "https://mmg.whatsapp.net/d/f/AvyrulDln8LOarYPOSaHlEJuDr3QGtyPDt8dKQrS8ngG.enc",
+            res = await Haikal.prepareMessageFromContent(from,{				                   
+                            "imageMessage": {
+                            "url": ://mmg.whatsapp.net/d/f/AsFNwHOoqXCd048cwzWg7mOqjos8KYk8NnS7pFpieqv1.enc",
 	"mimetype": "image/jpeg",
-	"fileSha256": "gFR8tkoZzz94bBhRUPEBmEIWUfPRcifZB/lfNgDluzE=",
-	"fileLength": "11361",
-	"height": 320,
-	"width": 320,
-	"mediaKey": "sa5dTaPVuXf2iJQICyDGOuk20vgFa8x7Gav70uDLkAM=",
-	"fileEncSha256": "imeYUPbeov2xI6jfjEWev/1vcPPdPNS4FNIw3PQzEMQ=",
-	"directPath": "/v/t62.7118-24/30979495_964456737525000_9111297558520193309_n.enc?ccb=11-4&oh=01_AVxnGaVQHD8dCYnRaMec2YWPpNqWGIh399SqIFepYyYuhw&oe=61EF5CA",
+	"fileSha256": "nL55bWq5S8HZPNEpbc5PjezdeZLnCxSJoxrqZwey1As=",
+	"fileLength": "108252",
+	"height": 1280,
+	"width": 1280,
+	"mediaKey": "cc0YRYUfhAMJI4mNYHBLBQ6qqvcP/5g+wlFpC8jOMtE=",
+	"fileEncSha256": "02dRflWmt7rqcOxnbV5paPvZ80bchle02vvvxa4JB5E=",
+	"directPath": "/v/t62.7118-24/33527314_143102881412791_6813597231661158761_n.enc?ccb=11-4&oh=01_AVzFSdzkCpJ0_HJDKB-DgItiodit73SLk2URuzyCPm-FrQ&oe=61F0BA0B",
 
-	"mediaKeyTimestamp": "1640604156",
+	"mediaKeyTimestamp": "1640701015",
 "jpegThumbnail": fs.readFileSync('./stik/deden.jpeg'),
 						"sellerJid": "6285714170944@s.whatsapp.net",
 						"token": "AR5oPgz0Gn0eG5P86rufp+E5etQtxFmuQA3KqXbJndr9pg==",
